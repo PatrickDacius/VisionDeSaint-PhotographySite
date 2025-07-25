@@ -1,4 +1,7 @@
 import Lesabout1 from "../assets/Lesabout1.jpeg"
+import Lesabout2 from "../assets/Lesabout2.jpeg"
+import Lesabout3 from "../assets/Lesabout3.jpeg"
+
 
 const About = () =>  {
     return (
@@ -6,25 +9,24 @@ const About = () =>  {
             <h1>Meet Les - The Eye Behind the Lens</h1>
             <img src={Lesabout1} alt="Les smiling with camera" className="les-photo" />
             <p>
-                With his roots in Haiti and a heart for helping people, Les blends compassion with creativity in everything he does.
-                His Journey in Photography began as simple as a hobby. A way to capture a moment, a smile, a spark. But over time, it evolved 
-                into something deeper: a passion for storytelling through images. 
+                Les is a Haitian creative whose roots inspire every image he captures. Raised by parents who taught him the value of hard work and compassion, he brings that same care and purpose into every frame. 
+                While pursing a career in healthcare as a registered nurse - a role that is built on empathy, trust, and healing - Les found a parallel calling: storytelling through photography. 
             </p>
 
             <p>
-                While pursing his career as a Registered Nurse, Les discovered that Photography offered a different kind of healing. 
-                This healing is one that preserves memories, uplifts confidence, and helps people see themselves in their best light.
+               What began as a hobby quickly grew into a deep passion. For Les, Photography is more than just taking picture. It's about preserving the feeling of the moment. 
+               Whether it's a proud smile on graduation day, a look of confidence on a bold outfit, or the quiet joy shared between loved ones, Les aims to capture what words can't always express.
+            </p>
+            <img src={Lesabout2} alt="Les looking nonchalantly" className="les-photo" />
+            <p>
+                Through VisionDeSaint, his goal is to help people feel seen - not just in the literal sense, but emotionally. His work reflects a commitment to detail, authenticity, and artistry.
+                Every session is a chance to create something timeless. A memory that you can look back on and still feel. 
             </p>
 
             <p>
-                From graduations and events to creative shoots and portraits, every session with Les is about more than just the photo..
-                It's about freezing time, capturing energy, and creating something that will be cherished for years to come. 
+                Les serves others by showing them how powerful, beautiful, and unforgettable their memories are. 
             </p>
-
-            <p>
-                VisionDeSaint is more than a brand - It's a commitment to helping people feel seen, celebrated, and remembered.
-            </p>
-
+            <img src={Lesabout3} alt="Les looking nonchalantly again.." className="les-photo" />
             <p>
                 📍 Based in NYC <br />
                 📷 Specialties: Portraits, Graduation, Events, Creative Shoots
