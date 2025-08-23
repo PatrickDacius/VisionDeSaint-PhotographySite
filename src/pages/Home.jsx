@@ -20,8 +20,6 @@ const  Home = ()=> {
 
            {/*About section*/}
 
-
-
         </div>
     );
 }
